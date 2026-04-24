@@ -1,8 +1,4 @@
-python-telegram-bot
-Flask
-gunicorn
+python-telegram-bot==20.7
 gspread
 oauth2client
-gspread-formatting
-openpyxl
 pandas

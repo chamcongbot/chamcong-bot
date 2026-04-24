@@ -2,6 +2,5 @@ services:
   - type: web
     name: chamcong-bot
     env: python
-    plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn bot:app
+    startCommand: python bot.py
