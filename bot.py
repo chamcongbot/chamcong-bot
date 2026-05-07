@@ -60,7 +60,7 @@ scope = [
 ]
 
 creds = ServiceAccountCredentials.from_json_keyfile_name(
-    "credentials.json",
+    "creds.txt",
     scope
 )
 
