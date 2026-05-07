@@ -1,5 +1,7 @@
 python-telegram-bot==21.6
-flask
 gspread
 google-auth
+oauth2client
 pandas
+openpyxl
+gspread-formatting
