@@ -447,16 +447,6 @@ app.add_handler(CommandHandler("coc", coc))
 app.add_handler(CommandHandler("tch", tch))
 app.add_handler(CommandHandler("ung", ung))
 
-import asyncio
-
 print("🔥 Bot đang chạy...")
 
-async def main():
-    await app.initialize()
-    await app.start()
-    await app.updater.start_polling()
-
-    while True:
-        await asyncio.sleep(3600)
-
-asyncio.run(main())
+app.run_polling()
