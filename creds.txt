@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chamcongbot-493716",
+  "private_key_id": "45e908dfeb2f0aa31d80d97c675cc48f6b738d50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChZCHgYVvmYtbr\nzH0qyeBV7jzy1j3wsIJ0y9ZZcHvBjs4apORZ1Zw8pU8BkM1+3cpdtKLzRYSP4u5W\n4r/uVrLfTEmmtdyiFZayB0tNEJIljnuf7q2c04OHgCHIIYaGox88OTdP3U+dcLFT\ncj2zF3CUMnpGuOdlaPqlrMaWTxNaq7KXjBqDC+qMjFRQ/wkBJo8zuY1mi1tQ8qkH\n7eu9KZxgUYuya1KJ8juY/8N6eumDsld7cHjkoSa5V0ROq4fx0Q9wTQK6TiujoqO2\ndmQe7kNvKF/CViRo2O/MqjTD4vKmL792Gj4XDosotJsQ5NCHEHUEeBc+USaxjHk5\nxQxREmVZAgMBAAECggEALJx0nsTatdLBbNmQCblWyPn7H/bnlTX9QZKss/lbRBQY\n1ZWZx1k8ACmDrr+bhgOBsihB2LPxIiLM1fiErDmL5Rx9yVbA347PInPQtUMs2rPJ\naVp84/o1g8l/zQWzXVkOw8NfDjTzEmZ5pcLQ2kXS6SwQz6bB067SheQ92oOOKoQV\n/xyD/RTb6hdooogO0jlAERE7SnTTpKWl87PJDYk3VaOcpL7P4RFe568Hx6Eq2rJN\nlZdFd/sVJP/N4bdc+2rvUquQj6qiCBje3wp9yrHmoutgh6w9AEamcGRafANFS2pv\nGhsPCL3azLYkBerJe3nEqd5kvjmLKJdzJivvrKFzdwKBgQDSiCDZwz9KUd3DpPoH\nZpzKZOCX5rcX5mieTakd8LF5z7U3XeRiHyNugg71Nvgit0M/zPjgJp00V08YGExP\nc0FIcHmF35RU82MChDS6txN5HjJzh51g+eoTE0O/EvzcUDdqKeTbYy9f/BqM+4q5\n72hZTusAcwlGi8FoqOEb2LUL5wKBgQDEPx6sNEChvfPK2GWeYALoR992JKhnmbEr\ntnbKZxCIC6lus6A/OTWqP11mbEC514SW9XHky26+gw7dnMlwCNGbEebmtBZpXRQn\niDMNVZKhRENkgmLVh1CdN2oFytHKPewIDAq/q3jc3QOFwW1mgnhOaxWKqfuYW4NE\nGE4BfZzcvwKBgQDEW8zv7igopCSHZmcA4hbYuq+zXa9lbjQjeeGDGEwfhbfKNRte\n3RYJ6uoSkbtrfawOZJm3TqyO9ePCYF9ENwYrjyP41egeN4cgALjBcSGLdLuvf0ws\n98r3EZ+9JfOLdJHKxdo7OM4l4xfMaIwiEYYszetnVuPO1WiFugWDGGL7/wKBgBey\nr5eH784YTBpQq2TGn1NBaqCvqI5qJtTqgcnLTFnBXsJ5en5oAC0A3dyCcgZ/GgnI\nteo1Drh+xwrH5iNbTUR2kvWFBbfPf6GOduvDS6OhxKmcfSbf4kI58NmmNlM/ywLl\nwV6H7F5vaf967iUU2EZP9Bf8kt9BHcbZUIIpkwmtAoGAGcEEcUDxbsAM40+w8+FW\nKjSnXG4jWc47wSP8etijWMsQxFin4Ua5Gre/cghrPcRLvL5LMv6Pkr2QwYk/SpJx\ngRk16fUqVfSxDqBqz0wQfXWVAcCaqnXShU2surkXfquMYmt+rEBxpzK90Sm8R5lY\nD+toick1qC5eVN/WP+avkJ4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chamcong-bot@chamcongbot-493716.iam.gserviceaccount.com",
+  "client_id": "107551560493939227852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chamcong-bot%40chamcongbot-493716.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
